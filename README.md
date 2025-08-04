@@ -25,6 +25,8 @@ Looking to connect with investors, accelerators, and collaborators in constructi
 
 ## 🤝 Partners & Ecosystem Support
 
-<img src="assets/Bangun.Powered By.png width="600"/>
+<p align="center">
+  <img src="./assets/Bangun.Powered%20By.png" alt="Powered by Antler, Microsoft, OpenAI, Amazon" width="600"/>
+</p>
 
 
