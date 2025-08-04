@@ -23,16 +23,8 @@ Looking to connect with investors, accelerators, and collaborators in constructi
 
 ---
 
-### 🤝 Partners & Ecosystem Support
+## 🤝 Partners & Ecosystem Support
 
-<p align="center">
-  <img src="assets/Antler_logo.svg.png" alt="Antler" height="45" />
-  &nbsp;&nbsp;
-  <img src="assets/microsoft bgG.png" alt="Microsoft" height="45" />
-  &nbsp;&nbsp;
-  <img src="assets/OpenAI.png" alt="OpenAI" height="45" />
-  &nbsp;&nbsp;
-  <img src="assets/White-Amazon-Logo-PNG-HD-Quality.png" alt="Amazon" height="45"/>
-</p>
+<img src="./Bangun.Powered%20By.png" width="600"/>
 
 
