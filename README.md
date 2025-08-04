@@ -21,10 +21,7 @@ Looking to connect with investors, accelerators, and collaborators in constructi
 
 📬 Connect: [LinkedIn](https://www.linkedin.com/in/cywilliamson) | [Bangun MVP Repo](https://github.com/cycorpgpt/bangunai-mvp)
 
-<p align="center">
-  <img alt="Antler VC Backed" src="https://img.shields.io/badge/Backed%20by-Antler%20VC-red?style=flat-square" />
-  <img alt="YC Applicant" src="https://img.shields.io/badge/YC-F25%20Applicant-orange?style=flat-square" />
-  <img alt="Surge Ready" src="https://img.shields.io/badge/Surge-Prep%20Stage-yellow?style=flat-square" />
-  <img alt="Founder & Builder" src="https://img.shields.io/badge/Founder-Bangun.AI-blueviolet?style=flat-square" />
-</p>
-
+![Antler](https://img.shields.io/badge/Backed_by-Antler_Early_Stage_VC-red?logo=ant-design&logoColor=white&style=flat-square)
+![YC](https://img.shields.io/badge/YC-F25_Applicant-orange?logo=ycombinator&logoColor=white&style=flat-square)
+![Surge](https://img.shields.io/badge/Surge-Prep_Stage-yellow?style=flat-square)
+![Bangun.AI](https://img.shields.io/badge/Founder-Bangun.AI-blueviolet?style=flat-square)
