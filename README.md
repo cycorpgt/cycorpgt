@@ -28,7 +28,7 @@ Looking to connect with investors, accelerators, and collaborators in constructi
 <p align="center">
   <img src="assets/Antler_logo.svg.png" alt="Antler" height="40" />
   &nbsp;&nbsp;
-  <img src="assets/Microsoft.png" alt="Microsoft" height="55" />
+  <img src="assets/microsoftbgG.png" alt="Microsoft" height="55" />
   &nbsp;&nbsp;
   <img src="assets/OpenAI.png" alt="OpenAI" height="40" />
   &nbsp;&nbsp;
