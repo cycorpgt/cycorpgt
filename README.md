@@ -23,5 +23,4 @@ Looking to connect with investors, accelerators, and collaborators in constructi
 
 ![Antler](https://img.shields.io/badge/Backed_by-Antler_Early_Stage_VC-red?logo=ant-design&logoColor=white&style=flat-square)
 ![YC](https://img.shields.io/badge/YC-F25_Applicant-orange?logo=ycombinator&logoColor=white&style=flat-square)
-![Surge](https://img.shields.io/badge/Surge-Prep_Stage-yellow?style=flat-square)
 ![Bangun.AI](https://img.shields.io/badge/Founder-Bangun.AI-blueviolet?style=flat-square)
