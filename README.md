@@ -25,6 +25,6 @@ Looking to connect with investors, accelerators, and collaborators in constructi
 
 ## 🤝 Partners & Ecosystem Support
 
-<img src="./Bangun.Powered%20By.png" width="600"/>
+<img src="assets/Bangun.Powered By.png width="600"/>
 
 
